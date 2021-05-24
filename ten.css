@@ -1,0 +1,72 @@
+.aa{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+}
+.topnav .a{
+    text-align: end;
+}
+.container .a{
+    font-size: 47px;
+    font-weight: 700;
+    margin-top:28px;
+    line-height: 48px;
+}
+.v{
+    opacity:0.7;
+    height: 2px;
+    width: 1px;
+    
+}
+.abc{
+    font-size:21px;
+    line-height: 32px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn{
+    font-family: "IBM Plex Mono", monospace ;
+    font-size: 14px;
+    padding: 5px 10px;
+}
+.as{
+    font-size: 38px;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 20px;
+    margin-top: 32px;
+    background-color: rgb(252, 204, 166);
+}
+.c{
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 18px;
+    opacity: 0.85;
+
+}
+.innerlogo{
+   
+    display:inline-block;
+    margin:10px 40px;
+    justify-content: center;
+}
+.logo img.small{
+    width:150px;
+    text-align: center;
+    display: inline;
+}
+.logo img.small1{
+    width:80px;
+    margin:10px 40px;
+}
+.photos{
+    width:80px;
+    height:80px;
+    background-color: white;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    display:flex;
+    justify-content: space-between;
+}
+.container .icon .img{
+    width:40px;
+    height:20px;
+}
